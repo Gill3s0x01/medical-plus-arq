@@ -1,6 +1,6 @@
 # Sistema de Gestão para Clínicas e Hospitais — Arquitetura Backend (Spring Boot)
 
-> Documento para o repositório GitHub — contém visão arquitetural, decisões de stack, fluxogramas (Mermaid), entidades principais, endpoints e instruções iniciais para infraestrutura, segurança e CI/CD.
+> Documento contém visão arquitetural, decisões de stack, fluxogramas (Mermaid), entidades principais, endpoints e instruções iniciais para infraestrutura, segurança e CI/CD.
 
 ---
 
@@ -62,7 +62,7 @@ Requisitos não-funcionais principais:
 
 ## 3. Arquitetura (fluxograma / diagramas)
 
-> Abaixo há diagramas Mermaid que podem ser renderizados no GitHub (ou em editores que suportem Mermaid).
+> Abaixo há diagramas Mermaid que podem ser renderizados (em editores que suportem Mermaid).
 
 ### 3.1 Component Diagram (visão geral)
 
@@ -371,7 +371,7 @@ logging:
 
 ### Contato
 
-Se quiser, eu gero a estrutura inicial do projeto (ex.: `spring initializr` + skeleton de pastas, DTOs e controllers) e um `docker-compose` para rodar rápido em desenvolvimento. Diga se quer **Java** ou **Kotlin** e eu já crio o skeleton.
+---
 
 ---
 
